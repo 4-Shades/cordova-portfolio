@@ -11,7 +11,7 @@ const projectsData: Project[] = [
     description: `This application is a small ASP.NET Core MVC web app for estimating
     the power output of a wave turbine system.`,
     imgSrc: '/static/images/wave-energy-buoy-corpower-ocean.jpg',
-    href: 'https://www.google.com',
+    href: 'https://wave-turbine-power-calculator.vercel.app',
   },
   // {
   //   title: 'Vertical Wind Turbine Power Calculator',
