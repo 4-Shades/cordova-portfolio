@@ -18,7 +18,7 @@ const projectsData: Project[] = [
     description: `This is a small Spring Boot web application for calculating the 
     power output of a vertical-axis wind turbine (VAWT).`,
     imgSrc: '/static/images/google.png',
-    href: 'https://vawt-power-calculator.vercel.app/',
+    href: 'https://vawt-power-calculator.vercel.app',
   },
 ]
 
