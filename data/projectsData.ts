@@ -13,13 +13,13 @@ const projectsData: Project[] = [
     imgSrc: '/static/images/wave-energy-buoy-corpower-ocean.jpg',
     href: 'https://wave-turbine-power-calculator.vercel.app',
   },
-  // {
-  //   title: 'Vertical Wind Turbine Power Calculator',
-  //   description: `This is a small Spring Boot web application for calculating the 
-  //   power output of a vertical-axis wind turbine (VAWT).`,
-  //   imgSrc: '/static/images/google.png',
-  //   href: 'https://www.google.com',
-  // },
+  {
+    title: 'Vertical Wind Turbine Power Calculator',
+    description: `This is a small Spring Boot web application for calculating the 
+    power output of a vertical-axis wind turbine (VAWT).`,
+    imgSrc: '/static/images/google.png',
+    href: 'https://vawt-power-calculator.vercel.app/',
+  },
 ]
 
 export default projectsData
