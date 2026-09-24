@@ -17,8 +17,15 @@ const projectsData: Project[] = [
     title: 'Vertical Wind Turbine Power Calculator',
     description: `This is a small Spring Boot web application for calculating the 
     power output of a vertical-axis wind turbine (VAWT).`,
-    imgSrc: '/static/images/google.png',
+    imgSrc: '/static/images/vawt.jpg',
     href: 'https://vawt-power-calculator.vercel.app',
+  },
+  {
+    title: 'ADK-Powered Travel Planner',
+    description: `The ADK-Powered Travel Planner is a multi-agent travel-planning application. A host service coordinates 
+    specialist services for flights, stays, and activities, while a Streamlit UI provides the user-facing workflow.`,
+    imgSrc: '/static/images/travel-planner.png',
+    href: 'https://github.com/4-Shades/IS_Final',
   },
 ]
 
