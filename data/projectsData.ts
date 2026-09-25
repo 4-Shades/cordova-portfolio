@@ -25,7 +25,7 @@ const projectsData: Project[] = [
     description: `The ADK-Powered Travel Planner is a multi-agent travel-planning application. A host service coordinates 
     specialist services for flights, stays, and activities, while a Streamlit UI provides the user-facing workflow.`,
     imgSrc: '/static/images/travel-planner.png',
-    href: 'https://github.com/4-Shades/IS_Final',
+    href: 'https://isfinal-vk4i5cbgrtxipeedfddpzh.streamlit.app/',
   },
 ]
 
