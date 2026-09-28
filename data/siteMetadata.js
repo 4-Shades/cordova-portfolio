@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Chaim Joseph Cordova',
   author: 'Chaim Joseph Cordova',
   headerTitle: 'Chaim Joseph Cordova',
-  description: 'Portfolio of Chaim Joseph Cordova — Computer Science graduate and software developer.',
+  description: 'Portfolio of Chaim Joseph Cordova — Computer Science graduate and aspiring software engineer.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://cordova-portfolio-silk.vercel.app',
