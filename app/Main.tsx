@@ -1,8 +1,7 @@
-import Link from '@/components/Link'
-import Tag from '@/components/Tag'
-import siteMetadata from '@/data/siteMetadata'
-import { formatDate } from 'pliny/utils/formatDate'
-import NewsletterForm from 'pliny/ui/NewsletterForm'
+import { Authors, allAuthors } from 'contentlayer/generated'
+import { MDXLayoutRenderer } from 'pliny/mdx-components'
+import { coreContent } from 'pliny/utils/contentlayer'
+import AuthorLayout from '@/layouts/AuthorLayout'
 
 const MAX_DISPLAY = 5
 
