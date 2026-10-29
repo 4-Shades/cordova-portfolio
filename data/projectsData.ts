@@ -27,6 +27,14 @@ const projectsData: Project[] = [
     imgSrc: '/static/images/travel-planner.png',
     href: 'https://isfinal-vk4i5cbgrtxipeedfddpzh.streamlit.app/',
   },
+  {
+    title: 'Loan Calculator',
+    description: `This is is a single-page loan and amortization calculator for both personal and business borrowing.
+    It is built with Next.js, TypeScript and Tailwind, runs in Docker Compose locally, and deploys to Vercel with Neon 
+    Postgres and Upstash Redis rate limiting.`,
+    imgSrc: '/static/images/loan-calc.png',
+    href : 'https://loan-calc-m3.vercel.app/',
+  },
 ]
 
 export default projectsData
