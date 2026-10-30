@@ -23,9 +23,9 @@ const projectsData: Project[] = [
   {
     title: 'ADK-Powered Travel Planner',
     description: `The ADK-Powered Travel Planner is a multi-agent travel-planning application. A host service coordinates 
-    specialist services for flights, stays, and activities, while a Streamlit UI provides the user-facing workflow.`,
+    specialist services for flights, stays, and activities, while a Next.js UI provides the user-facing workflow.`,
     imgSrc: '/static/images/travel-planner.png',
-    href: 'https://isfinal-vk4i5cbgrtxipeedfddpzh.streamlit.app/',
+    href: 'https://travelplanner-1.vercel.app/',
   },
   {
     title: 'Loan Calculator',
